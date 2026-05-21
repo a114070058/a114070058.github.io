@@ -1,0 +1,54 @@
+.sherrycenter{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(154, 180, 195);
+}
+.me{
+    background-color: rgb(245, 213, 232);
+    padding: 20px 30px;
+    border-radius: 15px;
+    color: rgb(153, 103, 103);
+    margin: 80px auto;
+    width: 80%;
+    height: 100px;
+    overflow: auto;
+}
+.centercenter{
+    text-align: center;
+}
+a.shulink{
+    color: bisque;
+    padding: 0 30px;
+    border-radius: 40px;
+}
+.shulink:hover{
+    background-color: aliceblue;
+    color:blue;
+}
+a.nihslink{
+      color: rgb(118, 79, 30);
+    padding: 0 30px;
+    border-radius: 40px;
+}
+a.nihslink:hover{
+       background-color: rgb(30, 42, 53);
+    color: rgb(161, 161, 202);
+}
+.sherrygo{
+    font-size: 50px;
+    text-align: center;
+}
+section#about{
+    background-color: rgb(251, 210, 217);
+    background-image: url("../assets/img/bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+section#cta{
+    background-color: mediumslateblue;
+}
+section#cta h2{
+    color: white;
+}
