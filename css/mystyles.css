@@ -48,6 +48,7 @@ section#about{
 }
 section#cta{
     background-color: rgb(237, 178, 219);
+    text-align: center;
 }
 section#cta h2{
     color: white;
